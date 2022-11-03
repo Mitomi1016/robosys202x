@@ -3,7 +3,7 @@
 # SPDX-...
 
 ng () {
-	echo ${1}行目が違うよ
+	echo NG at LINE $1
 			
 	res=1
 }
