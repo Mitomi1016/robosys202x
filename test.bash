@@ -3,8 +3,7 @@
 # SPDX-...
 
 ng () {
-	echo NG at LINE $1
-			
+	echo NG at LINE $1	
 	res=1
 }
 
