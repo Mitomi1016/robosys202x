@@ -1,6 +1,7 @@
 #!/bin/bash -xv
-# SPDX-...
-# SPDX-...
+# SPDX-FileCopyrightText: 2022 Mitomi1016
+# SPDX-License-Identifier: BSD-3-Clause
+# SPDX-
 
 ng () {
 	echo NG at LINE $1	
