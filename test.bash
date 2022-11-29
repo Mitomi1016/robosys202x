@@ -4,7 +4,7 @@
 
 ng () {
 	echo NG at LINE $1	
-	ews=1
+	res=1
 }
 
 res=0
