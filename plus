@@ -10,5 +10,9 @@ for line in sys.stdin:
         ans += int(line)
     except:
         ans += float(line)
-print(ans)
+if ans%2==0:
+    print(str(ans) + " Even numberes")
+else:
+    print(str(ans) + " Odd numberes")
+
 
